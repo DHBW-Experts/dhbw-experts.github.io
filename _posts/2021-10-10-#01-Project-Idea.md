@@ -4,18 +4,22 @@ last_modified_at: 2021-10-10T21:20:02-05:00
 categories:
   - Blog
 tags:
-  - welcome
-  - utterances
-  - jekyll
-  - github-pages
+  - 01
+  - database
+  - app
+  - rfid
+  - ionic
+  - ios
+  - android
 ---
 
-Blog Entry 01 - the Project idea
+In our first content-related blog entry we will present our project idea. As you may have already noticed, our project is called "DHBW-Experts".
+The very basic idea is to create an easy way for students to find experts concerning a specific subject. 
+We want to create an app, which will enable our users to create a profile, where one can link certain any topic, they are an Expert in. 
+This will be possible by adding hashtags (e.g., #C++ or #BWL, although you can add non-DHBW-related tags like #LaTeX or #Tax too) alongside their DHBW-related personal information to their student profile. These tags can be searched by anyone needing help, creating an expertise-database.
 
-In our first content-related blog entry we will present to you our project idea. As you may have already noticed, the project is named "DHBW-Experts". The whole project builds up around this name. 
-The very basic idea is to create an easy way for students connecting each other. Especially a way of getting to know people that are experts in any subject. It has not even need to be a subject that's taught at the DHBW, so e.g. a specific programming language or data structures. 
-This will be possible due to adding hashtags(e.g. #C++ or #MySQL) to his ID from the student identification card. Nowadays, almost every smartphone can scan NFC-Chips and we think it is possible to add some more information to the NFC-Chip in the card than just the ID.
+Nowadays, almost every smartphone can scan NFC-Chips and we think it is possible to link more information to the NFC-Chip than just your cafeteria balance. This is why we want to encourage our users to voluntarily link their RFID student ID card to our app to create their own digital business card - Just scan someone’s ID with our app and get an overview of who you are dealing with. Find out what they are good at and enjoy an instant conversation starter. 
 
-The Usage later on will be very easy, we plan to develop it as an android and also ios-app by using ionic. Ionic allows you to develop a programm that works flexible on ios, android and mostly also on the pc. 
-Once this is implemented as planned, students on the campus will be able to scan easily others student ID-card (of course with their permission) in case they need some help with e.g. a project and then they know instantly what the student infront of them can do best. 
-This way, you might find help easier if needed.
+Our app should be available as an Android and iOS-app (Although it will be almost impossible to deploy without an Apple Developer account) using Ionic. Ionic allows you to develop an application that works flexible on iOS, android and pcs. 
+
+Feel free to give us some feedback on our idea!
