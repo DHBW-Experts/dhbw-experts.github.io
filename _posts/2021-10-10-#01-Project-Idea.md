@@ -4,7 +4,6 @@ last_modified_at: 2021-10-10T21:20:02-05:00
 categories:
   - Blog
 tags:
-  - 01
   - database
   - app
   - rfid
@@ -12,7 +11,6 @@ tags:
   - ios
   - android
 ---
-
 In our first content-related blog entry we will present our project idea. As you may have already noticed, our project is called "DHBW-Experts".
 The very basic idea is to create an easy way for students to find experts concerning a specific subject. 
 We want to create an app, which will enable our users to create a profile, where one can link certain any topic, they are an Expert in. 
@@ -23,3 +21,4 @@ Nowadays, almost every smartphone can scan NFC-Chips and we think it is possible
 Our app should be available as an Android and iOS-app (Although it will be almost impossible to deploy without an Apple Developer account) using Ionic. Ionic allows you to develop an application that works flexible on iOS, android and pcs. 
 
 Feel free to give us some feedback on our idea!
+
