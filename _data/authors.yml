@@ -1,0 +1,47 @@
+Lukas Holler:
+  name        : "Lukas Holler"
+  bio         : "Backend and User Authentication"
+  avatar      : "/assets/images/authors/lukas.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:lukas.holler@live.de"
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/lukas-hllr"
+
+Ralph Böhm:
+  name        : "Ralph Böhm"
+  bio         : "Developer"
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:x.example.com"
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Ralph-1006"
+
+Noah Kilders:
+  name        : "Noah Kilders"
+  bio         : "Developer"
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:x.example.com"
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/nkilders"
+
+Tim Czerkas:
+  name        : "Tim Czerkas"
+  bio         : "Developer"
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:x.example.com"
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/TimCzks"

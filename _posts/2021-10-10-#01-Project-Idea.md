@@ -1,6 +1,7 @@
 ---
 title: "01: Project idea"
 last_modified_at: 2021-10-10T21:20:02-05:00
+author: Lukas Holler
 categories:
   - Blog
 tags:
