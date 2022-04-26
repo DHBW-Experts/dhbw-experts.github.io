@@ -25,11 +25,11 @@ Ralph Böhm:
 Noah Kilders:
   name        : "Noah Kilders"
   bio         : "Developer"
-  avatar      : "/assets/images/bio-photo.jpg"
+  avatar      : "/assets/images/authors/noah.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:x.example.com"
+      url: "mailto:mail@nkilders.de"
     - label: "Github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nkilders"
