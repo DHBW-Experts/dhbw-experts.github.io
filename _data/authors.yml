@@ -12,8 +12,8 @@ Lukas Holler:
 
 Ralph Böhm:
   name        : "Ralph Böhm"
-  bio         : "Developer"
-  avatar      : "/assets/images/bio-photo.jpg"
+  bio         : "Frontend Developer, Tester"
+  avatar      : "/assets/images/authors/ralph.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
